@@ -1,0 +1,61 @@
+h2{
+  color: green;
+}
+
+body {
+  padding-top: 70px;
+  font-size: 20px;
+  font-family: 'Calligraffitti';
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: grey;
+}
+
+#social-buttons button{
+  color: white;
+}
+.btn-twitter {
+  background-color: #00aace;o
+  border-color: #009ad5;
+}
+.btn-facebook{
+  background-color: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest{
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
+body{
+
+background color: grey
+
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    color: red;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+  font-family: 'Calligraffitti';
+  font-size: 20pt;
+  text-align: justify;
+  color: green;
+}
+
+h1{
+ color: black;
+}
+
+.
